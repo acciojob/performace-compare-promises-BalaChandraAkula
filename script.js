@@ -1,4 +1,3 @@
-// Array of API URLs to fetch data from
 const apiUrls = [
   "https://jsonplaceholder.typicode.com/todos/1",
   "https://jsonplaceholder.typicode.com/todos/2",
